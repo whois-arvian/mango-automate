@@ -46,7 +46,7 @@ async function operation(_0x5a9aeb) {
       await Helper.delay(0x7d0, _0x5a9aeb, _0x542722.exchangeTask.detail.title + " Task is now Syncronizing", _0x542722);
       await _0x542722.getMangoUser(true);
     }
-    await Helper.delay(0x5265c00, _0x5a9aeb, "Accounts Processing Complete, Delaying For " + Helper.msToTime(0x5265c00) + '...', _0x542722);
+    await Helper.delay(0x93d80, _0x5a9aeb, "Accounts Processing Complete, Delaying For " + Helper.msToTime(0x93d80) + '...', _0x542722);
   } catch (_0x13a9d7) {
     _0x58c199.info(_0x13a9d7.message);
     await Helper.delay(0x1388, _0x5a9aeb, _0x13a9d7.message, _0x542722);
